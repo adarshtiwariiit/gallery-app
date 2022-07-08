@@ -1,4 +1,4 @@
-package com.example.adarshtiwai.manageit;
+package com.example.adarshtiwari.manageit;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
